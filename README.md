@@ -1,4 +1,4 @@
-# help_robots_help_humanity
+# Surface_type_detection_for_the_robot's_indoor_navigation
 Final year Project at Institute of Engineering and Technology, Lucknow
 Made by Akansh Maurya, Akash Singh and Lokendra Rathore (Final year students, Electrical Engineering, Batch-2021) 
 Guided by Dr. Seethalekshmi K, Head of Department, Electrical Engineering Department, IET Lucknow
